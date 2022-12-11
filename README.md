@@ -65,7 +65,10 @@ Violence and Sexual offences related cases ranked 1st among crime types
 - Do more outside reading or researches on relevant topic and usage of python applications
 - Get more accurate dataset (some small towns data were not included in the data set obtained)
 
-
+## Coding File:
+- Crime_Data .ipynb (Tony)
+- Crime_data_jyothi_palle.ipynb (Jyothi)
+- crime_data_Olive4.ipynb (Olive)
 
 
 
